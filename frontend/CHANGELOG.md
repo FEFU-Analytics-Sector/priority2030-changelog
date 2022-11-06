@@ -1,3 +1,9 @@
+## 0.1.1 (2022-11-06)
+
+### Fix
+
+- add staff roles to permissions on projects, project profile page
+
 ## 0.1.0 (2022-11-02)
 
 ### Feat
