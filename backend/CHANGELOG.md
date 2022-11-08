@@ -1,3 +1,10 @@
+## 0.5.1 (2022-11-08)
+
+### Fix
+
+- add staff permissions for all new users
+- add checker is user in project, replace ItemNotFound errs to Unexpected err
+
 ## 0.5.0 (2022-11-02)
 
 ### Feat
