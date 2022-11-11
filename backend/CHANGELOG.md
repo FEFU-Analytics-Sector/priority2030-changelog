@@ -1,3 +1,9 @@
+## 0.6.0 (2022-11-11)
+
+### Feat
+
+- ad dockerignore file for les docker image size
+
 ## 0.5.3 (2022-11-09)
 
 ## 0.5.2 (2022-11-08)
