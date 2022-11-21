@@ -1,3 +1,14 @@
+## 0.2.0 (2022-11-21)
+
+### Feat
+
+- add project purchase table
+
+### Fix
+
+- delete slash + project profile pesponse data store
+- project purchase component
+
 ## 0.1.3 (2022-11-09)
 
 ### Fix
