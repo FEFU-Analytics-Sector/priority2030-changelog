@@ -1,3 +1,11 @@
+## 0.2.1 (2022-11-29)
+
+### Fix
+
+- change about program page
+- change projects page table
+- change projects page
+
 ## 0.2.0 (2022-11-21)
 
 ### Feat
