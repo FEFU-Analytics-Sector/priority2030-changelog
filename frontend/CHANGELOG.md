@@ -1,3 +1,9 @@
+## 0.3.1 (2022-11-30)
+
+### Fix
+
+- filters values depends on data
+
 ## 0.3.0 (2022-11-30)
 
 ### Feat
