@@ -1,3 +1,10 @@
+## 0.3.2 (2022-12-01)
+
+### Fix
+
+- project profile head fullname
+- project stage and project table width
+
 ## 0.3.1 (2022-11-30)
 
 ### Fix
