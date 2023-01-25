@@ -1,3 +1,22 @@
+
+## 0.4.1 (2022-12-27)
+
+### Fix
+
+- footer width and position
+- rework project profile fonts
+- rework projects page fonts
+- rework about program page fonts
+- rework about page
+- sidebar fontsize + scrollbar
+
+## 0.4.0 (2022-12-21)
+
+### Fix
+
+- new project indent
+- change menu design
+
 ## 0.3.3 (2022-12-02)
 
 ## 0.3.2 (2022-12-01)
