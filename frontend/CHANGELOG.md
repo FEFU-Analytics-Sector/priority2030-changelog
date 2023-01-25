@@ -1,4 +1,35 @@
 
+## 0.5.0 (2023-01-25)
+
+### Feat
+
+- connect 1c overview + strategy projects page
+- add table_rows property to tables
+
+### Fix
+
+- pie chart colors
+- merge conflicts
+- save on preview
+- version default value
+- auto sum
+- skeletons for 1c data
+- default value + dynamic sections
+- age statistic adaptive + strategy projects select
+- overview statistic text + plan value spaces
+- function for data prepare
+- strategy budget tooltip colors
+- age data chart
+- projects and strategy projects padding from menu
+- rework fonts on support and changelog pages
+- support select independent of form select
+- delete row method
+- add headless row
+- webpack warnings + update styles with stylelint + update packages
+- optimize description form on new project
+- table generation + save table data in store
+- delete console.log
+
 ## 0.4.1 (2022-12-27)
 
 ### Fix
