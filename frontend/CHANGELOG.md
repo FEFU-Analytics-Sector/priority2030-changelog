@@ -1,4 +1,13 @@
 
+## 0.5.1 (2023-01-26)
+
+### Fix
+
+- bug with old form + change new project choose date picker
+- button click zone
+- type error
+- table data store + resum button
+
 ## 0.5.0 (2023-01-25)
 
 ### Feat
