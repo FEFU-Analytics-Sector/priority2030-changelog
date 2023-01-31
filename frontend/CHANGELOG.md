@@ -1,4 +1,14 @@
 
+## 0.5.3 (2023-01-31)
+
+### Fix
+
+- table rows visibility
+- project moderation preview
+- query params map
+- table estimate values
+- moderation table
+
 ## 0.5.2 (2023-01-27)
 
 ## 0.5.1 (2023-01-26)
