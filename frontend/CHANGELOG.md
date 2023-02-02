@@ -1,4 +1,15 @@
 
+## 0.6.0 (2023-02-02)
+
+### Feat
+
+- add popover with project actions
+
+### Fix
+
+- auto save active tab closure
+- politic emblem
+
 ## 0.5.3 (2023-01-31)
 
 ### Fix
