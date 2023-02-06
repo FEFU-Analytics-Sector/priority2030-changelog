@@ -1,4 +1,13 @@
 
+## 0.6.2 (2023-02-06)
+
+### Fix
+
+- project preview disabled dynamic table controls
+- project preview table select disabled
+- column min content height
+- project preview in new window
+
 ## 0.6.1 (2023-02-02)
 
 ### Fix
