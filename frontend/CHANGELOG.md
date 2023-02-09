@@ -1,4 +1,20 @@
 
+## 0.7.0 (2023-02-09)
+
+### Feat
+
+- add different stages on moderation projects page
+- project reworking
+
+### Fix
+
+- user reworking
+- auth token check
+- table filters
+- bug with old form data
+- project reworking statuses
+- project moderation comments + table filter by status
+
 ## 0.6.2 (2023-02-06)
 
 ### Fix
