@@ -1,4 +1,18 @@
 
+## 0.8.0 (2023-02-10)
+
+### Feat
+
+- < 100 width block page
+
+### Fix
+
+- project preview await requests
+- project reworking all requests + confirm modal on reject button
+- strategy projects available strategies
+- project profile link
+- fam edit only 3 sections
+
 ## 0.7.1 (2023-02-10)
 
 ### Fix
