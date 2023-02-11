@@ -1,4 +1,11 @@
 
+## 0.8.1 (2023-02-11)
+
+### Fix
+
+- check if table columns string
+- dropdown team requests
+
 ## 0.8.0 (2023-02-10)
 
 ### Feat
