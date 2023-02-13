@@ -1,4 +1,20 @@
 
+## 0.9.0 (2023-02-13)
+
+### Feat
+
+- hande flags can_moderate + is_owner
+- add methods for project preview
+
+### Fix
+
+- project reworking check
+- project reworking comments and sections statutes
+- dynamic tooltip on icons
+- moderation table statuses filter
+- get comments from project data
+- bug with datepicker on firefox
+
 ## 0.8.1 (2023-02-11)
 
 ### Fix
