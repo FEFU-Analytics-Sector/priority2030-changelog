@@ -1,4 +1,18 @@
 
+## 0.10.0 (2023-02-14)
+
+### Feat
+
+- docx font size + projects button
+- add sidebar moderation projects count
+- add generate docx button on preview page
+- add popover with project actions
+
+### Fix
+
+- custom popover outside click
+- auto save active tab closure
+
 ## 0.9.1 (2023-02-14)
 
 ### Fix
