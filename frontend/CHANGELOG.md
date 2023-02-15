@@ -1,4 +1,11 @@
 
+## 0.10.1 (2023-02-15)
+
+### Fix
+
+- chrome, firefox docx save
+- description form alignment
+
 ## 0.10.0 (2023-02-14)
 
 ### Feat
