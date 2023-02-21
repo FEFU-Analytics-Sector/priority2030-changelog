@@ -1,4 +1,20 @@
 
+## 0.11.0 (2023-02-21)
+
+### Feat
+
+- add to docx title + created at field
+- moderation projects sort by created_at + new column
+- moderation projects sort by created_at + new table column
+- add moderation statistic
+- overview selector by year
+- is_owner flag
+
+### Fix
+
+- add 'no data' to chart cards
+- column width
+
 ## 0.10.1 (2023-02-15)
 
 ### Fix
