@@ -1,4 +1,11 @@
 
+## 0.11.1 (2023-02-22)
+
+### Fix
+
+- science sections highlight
+- edit button in reworking table
+
 ## 0.11.0 (2023-02-21)
 
 ### Feat
