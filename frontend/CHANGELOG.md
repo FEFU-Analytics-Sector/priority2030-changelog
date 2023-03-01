@@ -1,4 +1,19 @@
 
+## 0.12.0 (2023-03-01)
+
+### Feat
+
+- add moderation sections + editable comments + read commentaries
+
+### Fix
+
+- scrollbar style
+- project reworking status save + director comments
+- project reworking + moderation project reworking
+- new comments on approved or pending
+- director moderation
+- add number spaces in project
+
 ## 0.11.1 (2023-02-22)
 
 ### Fix
