@@ -1,4 +1,18 @@
 
+## 0.13.0 (2023-03-06)
+
+### Feat
+
+- add delete button
+- react tours
+- expertise and coordinating_council moderation panel
+
+### Fix
+
+- projects table project office edit button
+- new project tours
+- rework auto sum + default rows, fix select
+
 ## 0.12.0 (2023-03-01)
 
 ### Feat
