@@ -1,4 +1,15 @@
 
+## 0.14.0 (2023-03-09)
+
+### Feat
+
+- add external login
+- add external registration form
+
+### Fix
+
+- register request data
+
 ## 0.13.0 (2023-03-06)
 
 ### Feat
