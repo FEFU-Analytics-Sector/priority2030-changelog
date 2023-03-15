@@ -1,4 +1,11 @@
 
+## 0.14.1 (2023-03-15)
+
+### Fix
+
+- return close after 2 sec
+- generate docx new default_rows and auto sum
+
 ## 0.14.0 (2023-03-09)
 
 ### Feat
