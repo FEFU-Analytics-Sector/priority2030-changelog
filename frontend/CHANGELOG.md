@@ -1,4 +1,27 @@
 
+## 0.15.0 (2023-03-18)
+
+### Feat
+
+- add confirm moderation method
+- moderation tour
+
+### Fix
+
+- moderation projects filter
+- download button on projects page
+- moderation submit + bug with auth
+- moderation projects
+- tours beacon
+- moderation overflow
+- moderation submit notification + tour on about program page + reworking table filter
+- section key
+- moderation count over tour
+- download docx button
+- delete unused imports
+- word mistake
+- download docx
+
 ## 0.14.1 (2023-03-15)
 
 ### Fix
