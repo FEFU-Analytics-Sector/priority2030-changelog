@@ -1,4 +1,11 @@
 
+## 0.16.0 (2023-03-20)
+
+### Fix
+
+- delete cookies function
+- evaluate calculations with NaN
+
 ## 0.15.0 (2023-03-18)
 
 ### Feat
