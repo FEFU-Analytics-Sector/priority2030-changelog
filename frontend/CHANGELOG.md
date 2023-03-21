@@ -1,4 +1,10 @@
 
+## 0.16.1 (2023-03-21)
+
+### Fix
+
+- auth bug + grammar mistakes + comments saving bug
+
 ## 0.16.0 (2023-03-20)
 
 ### Fix
