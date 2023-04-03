@@ -1,4 +1,27 @@
 
+## 0.17.0 (2023-04-03)
+
+### Feat
+
+- download file method
+- save file
+
+### Fix
+
+- fetch method
+- download path
+- replaceAll
+- autosum replace ','
+- check if have property
+- rename science + add tooltips + update file uploader with new properties
+- estimate parse float with ","
+- moderation buttons font size
+- add file size + disabled property
+- file uploader save
+- projects table height
+- footer + form table refactor
+- auth bug
+
 ## 0.16.1 (2023-03-21)
 
 ### Fix
