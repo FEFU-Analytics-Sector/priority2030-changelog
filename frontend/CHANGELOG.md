@@ -1,4 +1,20 @@
 
+## 0.18.0 (2023-04-09)
+
+### Feat
+
+- knowledge page
+
+### Fix
+
+- save project reworkin if one section not saved
+- estimate table highlight
+- knowledge finance
+- knowledge fetch path
+- generate docx table columns
+- get project team method
+- prev button icon
+
 ## 0.17.1 (2023-04-04)
 
 ### Fix
