@@ -1,4 +1,12 @@
 
+## 0.18.1 (2023-04-10)
+
+### Fix
+
+- block button when on reworking
+- moderation table popover place
+- reworking save last with accept button
+
 ## 0.18.0 (2023-04-09)
 
 ### Feat
