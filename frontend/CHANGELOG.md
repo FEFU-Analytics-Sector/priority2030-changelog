@@ -1,3 +1,274 @@
+## 0.18.1 (2023-04-10)
+
+### Fix
+
+- block button when on reworking
+- moderation table popover place
+- reworking save last with accept button
+
+## 0.18.0 (2023-04-09)
+
+### Feat
+
+- knowledge page
+
+### Fix
+
+- save project reworkin if one section not saved
+- estimate table highlight
+- knowledge finance
+- knowledge fetch path
+- generate docx table columns
+- get project team method
+- prev button icon
+
+## 0.17.1 (2023-04-04)
+
+### Fix
+
+- delete moderation and on reworking sorts
+
+## 0.17.0 (2023-04-03)
+
+### Feat
+
+- download file method
+- save file
+
+### Fix
+
+- fetch method
+- download path
+- replaceAll
+- autosum replace ','
+- check if have property
+- rename science + add tooltips + update file uploader with new properties
+- estimate parse float with ","
+- moderation buttons font size
+- add file size + disabled property
+- file uploader save
+- projects table height
+- footer + form table refactor
+- auth bug
+
+## 0.16.1 (2023-03-21)
+
+### Fix
+
+- auth bug + grammar mistakes + comments saving bug
+
+## 0.16.0 (2023-03-20)
+
+### Fix
+
+- delete cookies function
+- evaluate calculations with NaN
+
+## 0.15.0 (2023-03-18)
+
+### Feat
+
+- add confirm moderation method
+- moderation tour
+
+### Fix
+
+- moderation projects filter
+- download button on projects page
+- moderation submit + bug with auth
+- moderation projects
+- tours beacon
+- moderation overflow
+- moderation submit notification + tour on about program page + reworking table filter
+- section key
+- moderation count over tour
+- download docx button
+- delete unused imports
+- word mistake
+- download docx
+
+## 0.14.1 (2023-03-15)
+
+### Fix
+
+- return close after 2 sec
+- generate docx new default_rows and auto sum
+
+## 0.14.0 (2023-03-09)
+
+### Feat
+
+- add external login
+- add external registration form
+
+### Fix
+
+- register request data
+
+## 0.13.0 (2023-03-06)
+
+### Feat
+
+- add delete button
+- react tours
+- expertise and coordinating_council moderation panel
+
+### Fix
+
+- projects table project office edit button
+- new project tours
+- rework auto sum + default rows, fix select
+
+## 0.12.0 (2023-03-01)
+
+### Feat
+
+- add moderation sections + editable comments + read commentaries
+
+### Fix
+
+- scrollbar style
+- project reworking status save + director comments
+- project reworking + moderation project reworking
+- new comments on approved or pending
+- director moderation
+- add number spaces in project
+
+## 0.11.1 (2023-02-22)
+
+### Fix
+
+- science sections highlight
+- edit button in reworking table
+
+## 0.11.0 (2023-02-21)
+
+### Feat
+
+- add to docx title + created at field
+- moderation projects sort by created_at + new column
+- moderation projects sort by created_at + new table column
+- add moderation statistic
+- overview selector by year
+- is_owner flag
+
+### Fix
+
+- add 'no data' to chart cards
+- column width
+
+## 0.10.1 (2023-02-15)
+
+### Fix
+
+- chrome, firefox docx save
+- description form alignment
+
+## 0.10.0 (2023-02-14)
+
+### Feat
+
+- docx font size + projects button
+- add sidebar moderation projects count
+- add generate docx button on preview page
+- add popover with project actions
+
+### Fix
+
+- custom popover outside click
+- auto save active tab closure
+
+## 0.9.1 (2023-02-14)
+
+### Fix
+
+- date format
+- mobile alert
+
+## 0.9.0 (2023-02-13)
+
+### Feat
+
+- hande flags can_moderate + is_owner
+- add methods for project preview
+
+### Fix
+
+- project reworking check
+- project reworking comments and sections statutes
+- dynamic tooltip on icons
+- moderation table statuses filter
+- get comments from project data
+- bug with datepicker on firefox
+
+## 0.8.1 (2023-02-11)
+
+### Fix
+
+- check if table columns string
+- dropdown team requests
+
+## 0.8.0 (2023-02-10)
+
+### Feat
+
+- < 100 width block page
+
+### Fix
+
+- project preview await requests
+- project reworking all requests + confirm modal on reject button
+- strategy projects available strategies
+- project profile link
+- fam edit only 3 sections
+
+## 0.7.1 (2023-02-10)
+
+### Fix
+
+- change on reworking key
+
+## 0.7.0 (2023-02-09)
+
+### Feat
+
+- add different stages on moderation projects page
+- project reworking
+
+### Fix
+
+- user reworking
+- auth token check
+- table filters
+- bug with old form data
+- project reworking statuses
+- project moderation comments + table filter by status
+
+## 0.6.2 (2023-02-06)
+
+### Fix
+
+- project preview disabled dynamic table controls
+- project preview table select disabled
+- column min content height
+- project preview in new window
+
+## 0.6.1 (2023-02-02)
+
+### Fix
+
+- popover buttons hover
+
+## 0.6.0 (2023-02-02)
+
+### Feat
+
+- add popover with project actions
+
+### Fix
+
+- auto save active tab closure
+- politic emblem
 
 ## 0.5.3 (2023-01-31)
 
