@@ -1,3 +1,11 @@
+## 0.18.2 (2023-04-12)
+
+### Fix
+
+- skip file data on generate docx
+- console errors
+- redirect on moderation after submit + team dropdown in budget
+
 ## 0.18.1 (2023-04-10)
 
 ### Fix
