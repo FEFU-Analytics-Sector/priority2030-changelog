@@ -1,3 +1,18 @@
+## 0.19.0 (2023-04-15)
+
+### Feat
+
+- add moderation dates tooltip
+- add partner staff role
+
+### Fix
+
+- commit interface update
+- editable sections for partner staff
+- add permissions for partner staff
+- change role name
+- dev back url
+
 ## 0.18.2 (2023-04-12)
 
 ### Fix
