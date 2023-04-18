@@ -1,3 +1,15 @@
+## 0.20.0 (2023-04-18)
+
+### Feat
+
+- password reset + comments auto resize
+
+### Fix
+
+- redirect from external to login
+- redirect from recovery to login
+- rework buttons for po,fam,science,partner
+
 ## 0.19.1 (2023-04-15)
 
 ## 0.19.0 (2023-04-15)
