@@ -1,3 +1,10 @@
+## 0.20.1 (2023-04-19)
+
+### Fix
+
+- convert ru section in en
+- divide call api for recovery requests
+
 ## 0.20.0 (2023-04-18)
 
 ### Feat
