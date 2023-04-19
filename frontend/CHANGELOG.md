@@ -1,3 +1,15 @@
+## 0.20.2 (2023-04-19)
+
+### Fix
+
+- moderation navigate
+- project reworking pulse button
+- styles on new project, expertise and council order buttons, user info rework
+- confirm text
+- comment initial height
+- add alerts for comments saves
+- moderation projects count
+
 ## 0.20.1 (2023-04-19)
 
 ### Fix
