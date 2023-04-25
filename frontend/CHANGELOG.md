@@ -1,3 +1,18 @@
+## 0.21.0 (2023-04-25)
+
+### Feat
+
+- rework icons + block status change when project on reworking
+- rework purchase page + connect some parts with backend
+- purchases page layout
+
+### Fix
+
+- project reworking statuses saves
+- moderation table reworking icon
+- dates format
+- change reworking icon
+
 ## 0.20.2 (2023-04-19)
 
 ### Fix
