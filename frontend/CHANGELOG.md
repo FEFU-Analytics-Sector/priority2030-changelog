@@ -1,3 +1,17 @@
+## 0.22.0 (2023-04-26)
+
+### Feat
+
+- force reworking button
+- add new role super po
+
+### Fix
+
+- private route not working
+- delete stage check for force button
+- add stage to moderation tab
+- on reworking moderator see only reworking status
+
 ## 0.21.1 (2023-04-25)
 
 ### Fix
