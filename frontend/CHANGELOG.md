@@ -1,3 +1,16 @@
+## 0.23.0 (2023-04-27)
+
+### Feat
+
+- new purchases table + change statistic text
+
+### Fix
+
+- values validation check
+- bug with estimate table + typescript errors
+- change status if project on reworking
+- change moderation status alert text
+
 ## 0.22.1 (2023-04-26)
 
 ## 0.22.0 (2023-04-26)
