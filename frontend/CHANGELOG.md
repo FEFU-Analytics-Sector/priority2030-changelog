@@ -1,3 +1,11 @@
+## 0.23.1 (2023-04-28)
+
+### Fix
+
+- type error in auto sum
+- estimate summation
+- rnd buttons + add rows delay
+
 ## 0.23.0 (2023-04-27)
 
 ### Feat
