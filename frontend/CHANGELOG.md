@@ -1,3 +1,9 @@
+## 0.23.2 (2023-04-28)
+
+### Fix
+
+- generate docx null project code exception
+
 ## 0.23.1 (2023-04-28)
 
 ### Fix
