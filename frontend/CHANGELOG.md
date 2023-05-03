@@ -1,3 +1,12 @@
+## 0.23.3 (2023-05-03)
+
+### Fix
+
+- estimate sum
+- rework double cell parsing with new save data
+- bug with rnd in project reworking and moderator reworking
+- rnd table rework values store and save
+
 ## 0.23.2 (2023-04-28)
 
 ### Fix
