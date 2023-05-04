@@ -1,3 +1,10 @@
+## 0.23.4 (2023-05-04)
+
+### Fix
+
+- bug with context setState, that rerender all components
+- add isFormWasEdit property to save only when data was changed
+
 ## 0.23.3 (2023-05-03)
 
 ### Fix
