@@ -1,3 +1,13 @@
+## 0.24.0 (2023-05-05)
+
+### Feat
+
+- add excel estimate download button
+
+### Fix
+
+- add button in moderation table
+
 ## 0.23.4 (2023-05-04)
 
 ### Fix
