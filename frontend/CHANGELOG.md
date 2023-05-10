@@ -1,3 +1,9 @@
+## 0.24.1 (2023-05-10)
+
+### Fix
+
+- save form when press recalculate
+
 ## 0.24.0 (2023-05-05)
 
 ### Feat
