@@ -1,3 +1,10 @@
+## 0.24.2 (2023-05-10)
+
+### Fix
+
+- form loading after moderation save
+- file upload value
+
 ## 0.24.1 (2023-05-10)
 
 ### Fix
