@@ -1,3 +1,23 @@
+## 0.25.0 (2023-05-12)
+
+### Feat
+
+- moderator comment info
+- moderator info
+
+### Fix
+
+- moderator info from comment
+- hover moderator data
+- check is have comments
+- check if have moderator info
+- change font style
+- comments keys
+- change purchase plans url
+- plan forecast icons
+- statistic skeletons
+- download files button loading
+
 ## 0.24.2 (2023-05-10)
 
 ### Fix
