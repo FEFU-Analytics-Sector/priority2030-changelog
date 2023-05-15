@@ -1,3 +1,15 @@
+## 0.26.0 (2023-05-15)
+
+### Feat
+
+- purchase profile without table
+- agreement force reworking button
+- add forceToApplication button
+
+### Fix
+
+- payments table columns
+
 ## 0.25.1 (2023-05-15)
 
 ### Fix
