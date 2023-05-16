@@ -1,3 +1,13 @@
+## 0.28.0 (2023-05-16)
+
+### Feat
+
+- project title in preview
+
+### Fix
+
+- preview scroll update sidebar
+
 ## 0.27.0 (2023-05-16)
 
 ### Feat
