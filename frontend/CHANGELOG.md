@@ -1,3 +1,17 @@
+## 0.27.0 (2023-05-16)
+
+### Feat
+
+- add dynamic titles
+- payment profile
+
+### Fix
+
+- delete badge filter
+- logo link
+- moderator info updated at
+- button text
+
 ## 0.26.0 (2023-05-15)
 
 ### Feat
