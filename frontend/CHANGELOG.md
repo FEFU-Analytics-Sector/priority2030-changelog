@@ -1,3 +1,15 @@
+## 0.29.0 (2023-05-17)
+
+### Feat
+
+- profile project title in tab title
+- handle confirmed property
+
+### Fix
+
+- comment textarea + project moderation gaps + new project title
+- rework moderation buttons
+
 ## 0.28.0 (2023-05-16)
 
 ### Feat
