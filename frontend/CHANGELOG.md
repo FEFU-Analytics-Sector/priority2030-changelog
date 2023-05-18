@@ -1,3 +1,16 @@
+## 0.30.2 (2023-05-18)
+
+### Fix
+
+- preview navigation top offset
+- knowledge styles
+- confirm button check
+- knowledge links hover
+- add tables to purchase and payment profile
+- sync header width with content
+- project reworking title
+- purchase and payment profiles title
+
 ## 0.30.1 (2023-05-18)
 
 ### Fix
