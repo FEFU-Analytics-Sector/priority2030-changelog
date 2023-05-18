@@ -1,3 +1,9 @@
+## 0.30.1 (2023-05-18)
+
+### Fix
+
+- preview scroll behavior + project info fixed on top
+
 ## 0.30.0 (2023-05-18)
 
 ### Feat
