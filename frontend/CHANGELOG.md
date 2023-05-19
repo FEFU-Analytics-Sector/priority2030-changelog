@@ -1,3 +1,18 @@
+## 0.31.0 (2023-05-19)
+
+### Feat
+
+- tables filters except data picker
+
+### Fix
+
+- moderation header
+- purchases label
+- purchases page
+- time format
+- agreed default tab
+- preview anchors
+
 ## 0.30.2 (2023-05-18)
 
 ### Fix
