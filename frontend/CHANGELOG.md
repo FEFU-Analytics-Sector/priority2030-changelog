@@ -1,3 +1,18 @@
+## 0.31.1 (2023-05-22)
+
+### Fix
+
+- moderator reworking + rewrite moderation buttons
+- change knowledge link
+- tables filters + style buttons
+- tables id key
+- moderator project reworking loading
+- tooltip text
+- moderation header width
+-  hide overview page
+- add date filters + reset button
+- add reset button
+
 ## 0.31.0 (2023-05-19)
 
 ### Feat
