@@ -1,3 +1,10 @@
+## 0.31.2 (2023-05-23)
+
+### Fix
+
+- rework tables in strategy projects + project profile + rework projects page edit button
+- add comments sort
+
 ## 0.31.1 (2023-05-22)
 
 ### Fix
