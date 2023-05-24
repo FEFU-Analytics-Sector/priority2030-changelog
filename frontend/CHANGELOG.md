@@ -1,3 +1,9 @@
+## 0.32.0 (2023-05-24)
+
+### Feat
+
+- add reworking status tooltip
+
 ## 0.31.2 (2023-05-23)
 
 ### Fix
