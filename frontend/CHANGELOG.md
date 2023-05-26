@@ -1,3 +1,13 @@
+## 0.33.0 (2023-05-26)
+
+### Feat
+
+- reset button on project reworking + moderator project reworking
+
+### Fix
+
+- rework buttons position
+
 ## 0.32.1 (2023-05-26)
 
 ### Fix
