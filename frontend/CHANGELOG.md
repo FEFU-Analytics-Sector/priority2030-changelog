@@ -1,3 +1,13 @@
+## 0.32.1 (2023-05-26)
+
+### Fix
+
+- moderation button + double cell check
+- comment frc request in project profile
+- comment frc request in project profile
+- hide tables in project profile and strategy projects pages
+- project profile total amount null
+
 ## 0.32.0 (2023-05-24)
 
 ### Feat
