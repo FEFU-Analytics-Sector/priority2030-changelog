@@ -1,3 +1,9 @@
+## 0.33.1 (2023-05-30)
+
+### Fix
+
+- fam project reworking tabs disabled
+
 ## 0.33.0 (2023-05-26)
 
 ### Feat
