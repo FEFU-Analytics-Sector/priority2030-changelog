@@ -1,3 +1,10 @@
+## 0.33.3 (2023-06-01)
+
+### Fix
+
+- moderation project reworking double cell check
+- new project double cell check
+
 ## 0.33.2 (2023-06-01)
 
 ### Fix
