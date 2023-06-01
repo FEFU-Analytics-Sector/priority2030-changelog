@@ -1,3 +1,9 @@
+## 0.33.2 (2023-06-01)
+
+### Fix
+
+- formulas cells auto fix if incorrect value
+
 ## 0.33.1 (2023-05-30)
 
 ### Fix
