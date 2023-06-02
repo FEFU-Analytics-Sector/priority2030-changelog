@@ -1,3 +1,9 @@
+## 0.34.1 (2023-06-02)
+
+### Fix
+
+- check if value not undefined
+
 ## 0.34.0 (2023-06-02)
 
 ### Feat
