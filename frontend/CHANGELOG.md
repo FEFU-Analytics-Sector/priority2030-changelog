@@ -1,3 +1,15 @@
+## 0.34.0 (2023-06-02)
+
+### Feat
+
+- add methods for verbose data
+- add download excel buttons to purchase page
+
+### Fix
+
+- translate statuses
+- purchases contract name
+
 ## 0.33.3 (2023-06-01)
 
 ### Fix
