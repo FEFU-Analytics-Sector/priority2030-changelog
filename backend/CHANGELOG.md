@@ -1,3 +1,67 @@
+## 0.8.0 (2023-06-13)
+
+### Feat
+
+- add project code to notifications
+- doesnt send project after approval to release
+- add on_reworking status for expertise step
+- add force send to application stage
+- add moderator info
+- add route that allows force send project to reworking
+- add partner role
+- add email notification using rabbitmq and external service
+- add confirmation for moderators
+- add statuses and comments history for all stages
+- add comments to agreement stage
+- edit comments
+- add sections
+- add is_owner flag for moderation view
+- add comments to approval stage
+- add send to moderation functionality
+- add router for getting moderation comments history
+- project office can reject projects
+- add comments to moderation
+- add code to projet (model and schema)
+
+### Fix
+
+- changelog secret name
+- wrong moderation view
+- access to moderation view at agreement and approval stage
+- temporary fix budget bug
+- wrong moderation view for on reworking projects
+- notification when project was sent to rewroking from approval
+- wrong moderation view (all projects were on reworking)
+- add partner staff for init db
+- return commented lines
+- bug with same names for schemas
+- missing letter
+- estiamte column width
+- moderation view for science if he has lightweight project
+- migration problem because of circular import
+- moderation view with moderation history
+- remove redundant moderation steps
+- moderator projects view when he is onwer
+- short_name can consist less and more than 3 words
+- add is_external_user field to FefuUserBase
+- auth circular import
+- fixed few bugs
+- bugs with registration
+- auth problems
+- merge migrations with dev
+- remove technical specification section for lightweight projects
+- moderation view for project owner
+- moderation view for director
+- wrong moderation view
+- wrong moderation view for admin/fam/po roles
+- projects were in wrong stages because of implicit incorrect table joins
+- show moderation view with content depending on user role
+- bugs with filter moderation projects for user
+- bugs with saving strategy type for project request
+- show moderation view with content depending on user role
+- no science step for ligthweight projects
+- only approved projects become on_reworking if at least one was sent on_reworking
+
 ## 0.7.0 (2022-11-30)
 
 ## 0.6.3 (2022-11-29)
