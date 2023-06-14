@@ -1,3 +1,10 @@
+## 0.8.1 (2023-06-14)
+
+### Fix
+
+- force send to reworking
+- moderation view for rejected projects
+
 ## 0.8.0 (2023-06-13)
 
 ### Feat
