@@ -1,3 +1,25 @@
+## 0.35.0 (2023-06-21)
+
+### Feat
+
+- light theme
+- rewrite styles with vars
+- white theme pages
+- auth + misc pages white theme
+- new theme + connect vite + white theme for knowledge and support pages
+
+### Fix
+
+- font-weight + icons
+- header username
+- header username
+- font-weight + styles errors
+- moderation page two requests
+- optimize moderation projects requests
+- styles + build config
+- errors and config for docker
+- rework forms buttons
+
 ## 0.34.1 (2023-06-02)
 
 ### Fix
