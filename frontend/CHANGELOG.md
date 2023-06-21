@@ -1,3 +1,9 @@
+## 0.36.0 (2023-06-21)
+
+### Feat
+
+- add permission for fam on purchases pages
+
 ## 0.35.0 (2023-06-21)
 
 ### Feat
