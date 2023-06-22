@@ -1,3 +1,17 @@
+## 0.37.0 (2023-06-22)
+
+### Feat
+
+- comment formatting + new project full height
+
+### Fix
+
+- imports
+- pending color
+- dynamic table was changed property
+- purchase buttons
+- light theme pending color
+
 ## 0.36.0 (2023-06-21)
 
 ### Feat
