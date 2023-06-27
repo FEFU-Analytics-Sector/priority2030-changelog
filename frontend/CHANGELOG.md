@@ -1,3 +1,9 @@
+## 0.38.0 (2023-06-27)
+
+### Feat
+
+- dynamic textarea height
+
 ## 0.37.0 (2023-06-22)
 
 ### Feat
