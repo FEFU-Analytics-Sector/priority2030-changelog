@@ -1,3 +1,15 @@
+## 0.39.0 (2023-06-27)
+
+### Feat
+
+- add change project dates
+
+### Fix
+
+- change page url
+- double cell height check
+- disable scroll in textarea
+
 ## 0.38.0 (2023-06-27)
 
 ### Feat
