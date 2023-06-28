@@ -1,3 +1,11 @@
+## 0.39.1 (2023-06-28)
+
+### Fix
+
+- header width reflow
+- height change reflow
+- dynamic table auto height
+
 ## 0.39.0 (2023-06-27)
 
 ### Feat
