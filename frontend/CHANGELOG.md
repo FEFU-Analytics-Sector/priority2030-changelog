@@ -1,9 +1,3 @@
-## 0.39.2 (2023-06-28)
-
-### Fix
-
-- table select options unique key
-
 ## 0.39.1 (2023-06-28)
 
 ### Fix
