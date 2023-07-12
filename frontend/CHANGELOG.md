@@ -1,3 +1,44 @@
+## 0.40.0 (2023-07-12)
+
+### Feat
+
+- table fields validation + type input check
+- base form fields validation
+- delete row by index
+- editor hotkeys
+- handle new login data
+
+### Fix
+
+- map keys errors
+- date cell default value error
+- rewrite table draw method, fix lags + new cell height update
+- update isRefreshing state
+- multiple requests refresh
+- validation check after submit + input text validation
+- docx and excel sum
+- docx string and number table cells
+- docx cell formatting
+- reworking handle errors
+- docx and excel string + number values
+- table height
+- generate docx and excel
+- form validation
+- rejected description section
+- promise error data
+- refreshToken repeat request
+- refreshToken with request repeat
+- handle expired token error
+- refresh token request
+- email confirmation page
+- esa auth with new tokens
+
+## 0.39.2 (2023-06-28)
+
+### Fix
+
+- table select options unique key
+
 ## 0.39.1 (2023-06-28)
 
 ### Fix
