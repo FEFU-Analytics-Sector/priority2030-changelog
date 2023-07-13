@@ -1,3 +1,9 @@
+## 0.40.1 (2023-07-13)
+
+### Fix
+
+- project button section param
+
 ## 0.40.0 (2023-07-12)
 
 ### Feat
