@@ -1,3 +1,43 @@
+## 0.41.0 (2023-07-27)
+
+### Feat
+
+- formable table download button
+- add formable table summary
+- add priority statistic
+- scroll pagination
+- purchases page + filter table without pagination
+- layout for filters
+- purchases statistic
+- layout for formable table and filters
+- purchases financial data
+- priority statistic + bars + update table
+
+### Fix
+
+- filename spaces
+- add file time
+- file format
+- filename
+- download button
+- download file
+- parse params
+- formable table dates, summary names + tables downloads
+- init values
+- new names in purchase page
+- summary vars
+- legends labels + statistic grid
+- transfer purchases budget bars percent calculation
+- budget bars percent calculation
+- budget bars percent calculation
+- columns width
+- payments table + priority table values spaces
+- purchase + payment profile
+- multiple selection param string
+- transfered purchases data
+- labels + percents
+- expenduture items filters
+
 ## 0.40.2 (2023-07-13)
 
 ### Fix
