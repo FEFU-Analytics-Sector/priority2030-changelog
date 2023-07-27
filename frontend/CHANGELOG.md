@@ -1,3 +1,10 @@
+## 0.41.1 (2023-07-27)
+
+### Fix
+
+- date property name
+- date format
+
 ## 0.41.0 (2023-07-27)
 
 ### Feat
