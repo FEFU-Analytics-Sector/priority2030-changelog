@@ -1,3 +1,13 @@
+## 0.41.2 (2023-08-01)
+
+### Fix
+
+- director, expertise, coordinating_council statuses fix
+- force reworking button
+- director status
+- purchases excel contract code
+- purchase profile contract code
+
 ## 0.41.1 (2023-07-27)
 
 ### Fix
