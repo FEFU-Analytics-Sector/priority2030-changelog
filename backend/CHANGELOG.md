@@ -1,3 +1,13 @@
+## 0.8.2 (2023-08-01)
+
+### Fix
+
+- bug with force reworking from agreement stage (forgot to change stage to moderation)
+- bug with force reworking from agreement stage
+- rewrite "api_request" on async
+- update README.md
+- async update user, rework orm model employee
+
 ## 0.8.1 (2023-06-14)
 
 ### Fix
