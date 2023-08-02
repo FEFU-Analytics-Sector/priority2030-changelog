@@ -1,3 +1,16 @@
+## 0.42.0 (2023-08-02)
+
+### Feat
+
+- document number in all purchases tables
+
+### Fix
+
+- moderation status with comment
+- moderation section statuses
+- formable table summary width
+- payments and purchases profile priority funds
+
 ## 0.41.2 (2023-08-01)
 
 ### Fix
