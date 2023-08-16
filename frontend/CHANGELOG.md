@@ -1,3 +1,18 @@
+## 0.42.1 (2023-08-16)
+
+### Fix
+
+- state width
+- change document link
+- rename fields purchases + profiles
+- change table data field name
+- hide transfered purchases
+- purchases table column props name
+- purchases table column name
+- purchases table column props name
+- purchases table column name
+- formable table contract code
+
 ## 0.42.0 (2023-08-02)
 
 ### Feat
