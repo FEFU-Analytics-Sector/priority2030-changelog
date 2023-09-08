@@ -1,3 +1,38 @@
+## 0.43.0 (2023-09-08)
+
+### Feat
+
+- add clear filters button to purchase tables
+- original filter
+- new projects routes + purchases tables filters
+- projects table with pagination
+- tables with pagination dowload filters
+- purchase + payment tables with pagination
+- dynamic project types
+
+### Fix
+
+- double talbe scroll
+- tailwind js
+- select all value
+- select props
+- payments api + badges
+- purchases download global status
+- puchases year params
+- date table cell delete
+- delete transfered purchases
+- completed projects head of and terms
+- missing styles for tables
+- column width
+- purchase and payment profile
+- generated table columns width
+- purchase, profile rename frc_code
+- project profile skeleton
+- project profile about data check
+- projects id
+- emblems, profiles
+- imports, types
+
 ## 0.42.1 (2023-08-16)
 
 ### Fix
