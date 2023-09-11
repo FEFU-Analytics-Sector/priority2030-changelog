@@ -1,3 +1,10 @@
+## 0.43.1 (2023-09-11)
+
+### Fix
+
+- projects completed title
+- projects pagination + new projects dynamic cards
+
 ## 0.43.0 (2023-09-08)
 
 ### Feat
