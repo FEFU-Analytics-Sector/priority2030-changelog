@@ -1,3 +1,10 @@
+## 0.43.2 (2023-09-12)
+
+### Fix
+
+- different contexts
+- remove tablestyles
+
 ## 0.43.1 (2023-09-11)
 
 ### Fix
