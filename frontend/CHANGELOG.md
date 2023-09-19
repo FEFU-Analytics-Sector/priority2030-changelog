@@ -1,3 +1,11 @@
+## 0.45.1 (2023-09-19)
+
+### Fix
+
+- moderation sections bar
+- table filters
+- table filters drop button
+
 ## 0.45.0 (2023-09-14)
 
 ### Feat
