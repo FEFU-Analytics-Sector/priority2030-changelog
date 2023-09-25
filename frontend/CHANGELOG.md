@@ -1,3 +1,10 @@
+## 0.45.2 (2023-09-25)
+
+### Fix
+
+- error response order check
+- moderation projects undefined check
+
 ## 0.45.1 (2023-09-19)
 
 ### Fix
