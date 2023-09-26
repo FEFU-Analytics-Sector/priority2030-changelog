@@ -1,3 +1,22 @@
+## 0.46.0 (2023-09-26)
+
+### Feat
+
+- purchases new fields
+
+### Fix
+
+- table filters dropdown
+- add projects filter to download payments
+- add projects filter to download
+- update moderation projects after moderation
+- time format
+- pp titles
+- auth locations check
+- external auth check
+- auth checks
+- sections bar + update moderation projects if change some moderation data
+
 ## 0.45.2 (2023-09-25)
 
 ### Fix
