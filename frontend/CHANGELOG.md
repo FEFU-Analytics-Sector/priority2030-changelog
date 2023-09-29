@@ -1,3 +1,16 @@
+## 0.47.0 (2023-09-29)
+
+### Feat
+
+- moderation count
+
+### Fix
+
+- axios interceptors multiple requests
+- submit project errors
+- payments document sum + open purchase and payments profile with click on document number
+- update badge count when filter data
+
 ## 0.46.0 (2023-09-26)
 
 ### Feat
