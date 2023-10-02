@@ -1,3 +1,14 @@
+## 0.48.0 (2023-10-02)
+
+### Feat
+
+- fact tab in payments table
+- add fact tab
+
+### Fix
+
+- console errors with table rowKey
+
 ## 0.47.1 (2023-09-29)
 
 ### Fix
