@@ -1,3 +1,13 @@
+## 0.49.0 (2023-10-03)
+
+### Feat
+
+- purchases project selector
+
+### Fix
+
+- priority statistics static
+
 ## 0.48.0 (2023-10-02)
 
 ### Feat
