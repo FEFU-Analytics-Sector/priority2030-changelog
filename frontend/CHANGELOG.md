@@ -1,3 +1,12 @@
+## 0.49.1 (2023-10-07)
+
+### Fix
+
+- missing imports
+- no acess dynamic main link
+- required field handler
+- loaders on buttons with long requests
+
 ## 0.49.0 (2023-10-03)
 
 ### Feat
