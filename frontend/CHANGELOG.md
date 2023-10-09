@@ -1,3 +1,9 @@
+## 0.50.0 (2023-10-09)
+
+### Feat
+
+- add pages titles in browser tab
+
 ## 0.49.1 (2023-10-07)
 
 ### Fix
