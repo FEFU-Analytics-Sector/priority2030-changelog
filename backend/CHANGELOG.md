@@ -1,3 +1,9 @@
+## 0.9.0 (2023-10-31)
+
+### Feat
+
+- add table CalendarScheduleStatuses
+
 ## 0.8.3 (2023-09-07)
 
 ### Fix
