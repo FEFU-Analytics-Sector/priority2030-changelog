@@ -1,3 +1,39 @@
+## 0.51.0 (2023-11-01)
+
+### Feat
+
+- add project profile buttons
+- purchases bar charts
+- estimates by sections
+- 1c estimates
+- projects register table
+- filters project code object
+- plan graphic editable desk
+- purchases tables project select
+- new team table + drag and drop plan graphic
+- rework profile about + add partners and customers table + controls
+
+### Fix
+
+- project profile description
+- 1c data filter
+- puchase plans filter on project select
+- build error
+- purchases estimates select + register table filter on select
+- numbers with spaces in register table
+- projects register rest
+- projects register table project name
+- purchases page dates
+- code name first + filters names
+- rework types
+- repeating requests + payments agreed count
+- purchases tables project select
+- project about
+- project about
+- project team, build errors
+- old plan graphic
+- rework about, add partners and customers tables
+
 ## 0.50.0 (2023-10-09)
 
 ### Feat
