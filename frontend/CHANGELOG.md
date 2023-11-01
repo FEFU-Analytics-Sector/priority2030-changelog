@@ -1,3 +1,11 @@
+## 0.51.1 (2023-11-01)
+
+### Fix
+
+- project profile buttons
+- purchases tables project select data stacks
+- profile preview link
+
 ## 0.51.0 (2023-11-01)
 
 ### Feat
