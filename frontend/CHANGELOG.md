@@ -1,3 +1,22 @@
+## 0.52.0 (2023-11-13)
+
+### Feat
+
+- realization project edit for owner and admin + fix 0 value in table cells
+
+### Fix
+
+- edit url
+- button styles
+- project profile edit button
+- check user roles for admin project edit
+- auto select project if only one available
+- purchases for all profiles
+-  prepare data for project register table
+- build errors + plan graphic errors
+- rework kanban desk at project profile + edit project button
+- delete 2022 year in select + delete projects register select
+
 ## 0.51.1 (2023-11-01)
 
 ### Fix
