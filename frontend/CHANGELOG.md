@@ -1,3 +1,11 @@
+## 0.52.1 (2023-11-16)
+
+### Fix
+
+- tooltip styles
+- popover width + register table tooltip
+- format values in purchases
+
 ## 0.52.0 (2023-11-13)
 
 ### Feat
