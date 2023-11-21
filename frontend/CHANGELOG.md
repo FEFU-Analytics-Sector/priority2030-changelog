@@ -1,3 +1,18 @@
+## 0.53.0 (2023-11-21)
+
+### Feat
+
+- projects table moderation statuses
+- user projects with moderation statuses
+
+### Fix
+
+- popover zindex
+- 2 heads
+- projects table styles
+- moderation tooltip
+- purchases zero after dot
+
 ## 0.52.1 (2023-11-16)
 
 ### Fix
