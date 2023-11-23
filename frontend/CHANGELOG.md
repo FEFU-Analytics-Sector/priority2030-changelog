@@ -1,3 +1,11 @@
+## 0.53.1 (2023-11-23)
+
+### Fix
+
+- donwload url
+- projects filter in download
+- projects moderation popover
+
 ## 0.53.0 (2023-11-21)
 
 ### Feat
