@@ -1,3 +1,35 @@
+## 0.54.0 (2023-11-29)
+
+### Feat
+
+- validate request when user rework project
+- purchases strategic filter
+
+### Fix
+
+- date cell styles
+- pp item
+- project charts name check
+- project progress title width
+- tables project name
+- progress titles
+- update names
+- selector null check
+- drop project selector when strategy change
+- table codes
+- projects selector
+- table codes
+- project name
+- name
+- project register table
+- tables filters
+- filters names
+- validation deadlines
+- strategy selector
+- projects error
+- purchase selectors + selectors behavor
+- filters projects name
+
 ## 0.53.1 (2023-11-23)
 
 ### Fix
