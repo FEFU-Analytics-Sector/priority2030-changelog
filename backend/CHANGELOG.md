@@ -1,3 +1,9 @@
+## 0.10.0 (2023-11-29)
+
+### Feat
+
+- add estimate statistics grouped by strategic types
+
 ## 0.9.0 (2023-10-31)
 
 ### Feat
