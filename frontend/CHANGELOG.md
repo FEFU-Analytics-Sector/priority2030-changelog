@@ -1,3 +1,9 @@
+## 0.54.2 (2023-12-01)
+
+### Fix
+
+- purchases table delete null values
+
 ## 0.54.1 (2023-12-01)
 
 ### Fix
