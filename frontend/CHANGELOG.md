@@ -1,3 +1,12 @@
+## 0.54.1 (2023-12-01)
+
+### Fix
+
+- new validation error
+- document number display
+- disable link if all null
+- validate paste textarea
+
 ## 0.54.0 (2023-11-29)
 
 ### Feat
