@@ -1,3 +1,12 @@
+## 0.54.4 (2023-12-04)
+
+### Fix
+
+- hide button for user
+- change tab name
+- delete row, project send
+- update project after remove
+
 ## 0.54.3 (2023-12-01)
 
 ### Fix
