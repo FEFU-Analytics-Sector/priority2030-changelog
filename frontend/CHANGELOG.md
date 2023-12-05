@@ -1,3 +1,12 @@
+## 0.54.5 (2023-12-05)
+
+### Fix
+
+- resubmit redirect
+- await save responses
+- rework project edit
+- resubmit project when admin edit
+
 ## 0.54.4 (2023-12-04)
 
 ### Fix
