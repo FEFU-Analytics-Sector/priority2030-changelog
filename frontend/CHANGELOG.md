@@ -1,3 +1,10 @@
+## 0.54.7 (2023-12-06)
+
+### Fix
+
+- add hide/open password
+- update validate password check
+
 ## 0.54.6 (2023-12-06)
 
 ### Fix
