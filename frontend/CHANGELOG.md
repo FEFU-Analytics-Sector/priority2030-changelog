@@ -1,3 +1,16 @@
+## 0.54.8 (2023-12-13)
+
+### Fix
+
+- add fact global status
+- purchases filters tables
+- **purchases**: fix table download data flow
+- filters value map on change
+- purchases table filters fix
+- projects filter project name
+- default light theme
+- bar chart tooltip
+
 ## 0.54.7 (2023-12-06)
 
 ### Fix
