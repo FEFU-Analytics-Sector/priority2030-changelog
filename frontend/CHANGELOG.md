@@ -1,3 +1,9 @@
+## 0.54.9 (2023-12-14)
+
+### Fix
+
+- numberWithSpaces error check
+
 ## 0.54.8 (2023-12-13)
 
 ### Fix
