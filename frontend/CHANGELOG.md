@@ -1,3 +1,18 @@
+## 0.55.0 (2023-12-15)
+
+### Feat
+
+- monitoring table filters + download
+- tables tabs + monitoring table
+
+### Fix
+
+- download params generation
+- global project select
+- picker style + dates
+- empty payments highlight
+- columns widths
+
 ## 0.54.9 (2023-12-14)
 
 ### Fix
