@@ -1,3 +1,14 @@
+## 0.56.0 (2023-12-18)
+
+### Feat
+
+- type check
+- new filter in monitoring table
+
+### Fix
+
+- monitoring table request params
+
 ## 0.55.0 (2023-12-15)
 
 ### Feat
