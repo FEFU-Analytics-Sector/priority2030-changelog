@@ -1,3 +1,23 @@
+## 0.57.0 (2023-12-21)
+
+### Feat
+
+- add purchase data rows
+
+### Fix
+
+- column width
+- column width
+- column width
+- scroll loading
+- border, loading, is wrong check
+- length check
+- ts errors
+- ts error
+- date to each purchase document
+- change column name
+- wrong document link
+
 ## 0.56.0 (2023-12-18)
 
 ### Feat
