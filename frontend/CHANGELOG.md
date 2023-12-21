@@ -1,3 +1,9 @@
+## 0.57.1 (2023-12-21)
+
+### Fix
+
+- document number nulls check
+
 ## 0.57.0 (2023-12-21)
 
 ### Feat
