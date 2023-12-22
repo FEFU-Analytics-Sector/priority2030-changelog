@@ -1,3 +1,10 @@
+## 0.57.2 (2023-12-22)
+
+### Fix
+
+- console.log
+- dates filters on download
+
 ## 0.57.1 (2023-12-21)
 
 ### Fix
