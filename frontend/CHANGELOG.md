@@ -1,3 +1,10 @@
+## 0.57.3 (2024-01-09)
+
+### Fix
+
+- add year in all requests
+- support response status check
+
 ## 0.57.2 (2023-12-22)
 
 ### Fix
