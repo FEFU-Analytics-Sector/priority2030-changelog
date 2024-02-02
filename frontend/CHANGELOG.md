@@ -1,3 +1,45 @@
+## 0.58.0 (2024-02-02)
+
+### Feat
+
+- save empty table, moderation page
+- date range format
+- sync values
+- add datetime table cell
+- new project modal
+- add sync value
+- new project design, new moderation comments, new moderation control panel
+- connect versions with backend
+- tables cells changes
+- diff for form fields
+
+### Fix
+
+- date, daterange error safety
+- drop error on new project
+- validation tables and errors
+- add dynamic table errors, file uploader errors, fix dynamic table validation
+- table textarea validate wasChanged
+- errors object parse, validate request on submit button
+- format sections advices
+- link safe, delete console logs
+- link safety
+- include max date
+- sections check
+- rework design in new project, project reworking, moderation project reworking
+- rework design in new project, project reworking, moderation project reworking
+- calendar schedule default rows
+- projects filters
+- projects filters values
+- add addcomment method, add moderation table pagination
+- fixes for new moderation
+- default textarea cell value type format
+- projects stage
+- table highlight, shedule value check
+- versions history
+- moderation versions diff highlight fixes
+- versions history equals time
+
 ## 0.57.3 (2024-01-09)
 
 ### Fix
