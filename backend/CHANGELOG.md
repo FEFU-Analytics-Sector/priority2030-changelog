@@ -1,3 +1,10 @@
+## 0.10.1 (2024-02-02)
+
+### Fix
+
+- delete float
+- description budget required set to false
+
 ## 0.10.0 (2023-11-29)
 
 ### Feat
