@@ -1,3 +1,11 @@
+## 0.58.1 (2024-02-05)
+
+### Fix
+
+- estimate resync check
+- docx form with inputs and tables generation
+- new project link in new tab
+
 ## 0.58.0 (2024-02-02)
 
 ### Feat
