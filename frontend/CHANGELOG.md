@@ -1,3 +1,13 @@
+## 0.58.2 (2024-02-07)
+
+### Fix
+
+- moderation dates
+- edit project add is_owner check
+- button color
+- delete projects stats
+- add new project menu buttons
+
 ## 0.58.1 (2024-02-05)
 
 ### Fix
