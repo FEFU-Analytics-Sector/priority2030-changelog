@@ -1,3 +1,9 @@
+## 0.58.3 (2024-02-12)
+
+### Fix
+
+- date range cell years picker
+
 ## 0.58.2 (2024-02-07)
 
 ### Fix
