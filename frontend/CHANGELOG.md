@@ -1,3 +1,36 @@
+## 0.59.0 (2024-02-13)
+
+### Feat
+
+- add reject modal, new moderation counts
+
+### Fix
+
+- delete moderation modal
+- reject response check
+- reject response status check
+- label center alignment
+- headless row value
+- technical specification view
+- range dates
+- add project moderation history highlight
+- design
+- design
+- moderation tooltip
+- moderation tooltip
+- moderation table
+- reworking save
+- modals
+- sections
+- changes parse, moderation sections
+- dates
+- dates
+- comments
+- moderation control panel
+- moderation redirect
+- moderation in new project comeback
+- new moderation stages
+
 ## 0.58.4 (2024-02-12)
 
 ### Fix
