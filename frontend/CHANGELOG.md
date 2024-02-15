@@ -1,3 +1,16 @@
+## 0.59.1 (2024-02-15)
+
+### Fix
+
+- line through in views project title
+- project types
+- font weight in tables
+- moderation is viewed styles
+- moderation status for rejected project
+- loader style
+- project save loader
+- budget and estimate bug with save
+
 ## 0.59.0 (2024-02-13)
 
 ### Feat
