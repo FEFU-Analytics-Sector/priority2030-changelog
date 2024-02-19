@@ -1,3 +1,15 @@
+## 0.60.0 (2024-02-19)
+
+### Feat
+
+- optional calendar graphic deadline
+- sections highlight depends on previous version
+
+### Fix
+
+- second local save timeout increment
+- deadlines
+
 ## 0.59.2 (2024-02-16)
 
 ### Fix
