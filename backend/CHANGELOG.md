@@ -1,3 +1,10 @@
+## 0.11.0 (2024-02-21)
+
+### Feat
+
+- add order by direction and pagination to mdoeration history
+- add moderation history
+
 ## 0.10.1 (2024-02-02)
 
 ### Fix
