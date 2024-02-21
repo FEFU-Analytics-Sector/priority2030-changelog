@@ -1,3 +1,98 @@
+## 0.61.0 (2024-02-21)
+
+### Feat
+
+-  new history table pagination
+- moderation history pagination
+- moderation history modal
+- history modal template
+- user guide template
+
+### Fix
+
+- timezone
+- date format
+- moderation filter
+- moderation history modal styles
+- request url
+- projects table is_owner check
+
+## 0.60.2 (2024-02-19)
+
+### Fix
+
+- new stages title
+
+## 0.60.1 (2024-02-19)
+
+### Fix
+
+- new project buttons
+
+## 0.60.0 (2024-02-19)
+
+### Feat
+
+- optional calendar graphic deadline
+- sections highlight depends on previous version
+
+### Fix
+
+- second local save timeout increment
+- deadlines
+
+## 0.59.2 (2024-02-16)
+
+### Fix
+
+- save click spam
+
+## 0.59.1 (2024-02-15)
+
+### Fix
+
+- line through in views project title
+- project types
+- font weight in tables
+- moderation is viewed styles
+- moderation status for rejected project
+- loader style
+- project save loader
+- budget and estimate bug with save
+
+## 0.59.0 (2024-02-13)
+
+### Feat
+
+- add reject modal, new moderation counts
+
+### Fix
+
+- delete moderation modal
+- reject response check
+- reject response status check
+- label center alignment
+- headless row value
+- technical specification view
+- range dates
+- add project moderation history highlight
+- design
+- design
+- moderation tooltip
+- moderation tooltip
+- moderation table
+- reworking save
+- modals
+- sections
+- changes parse, moderation sections
+- dates
+- dates
+- comments
+- moderation control panel
+- moderation redirect
+- moderation in new project comeback
+- new moderation stages
+
 ## 0.58.4 (2024-02-12)
 
 ### Fix
