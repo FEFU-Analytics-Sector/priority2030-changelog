@@ -1,3 +1,17 @@
+## 0.61.2 (2024-02-27)
+
+### Fix
+
+- moderation history response check
+- call api error catch
+- response type
+- call api response type
+- file download
+- file download
+- api url
+- change fetch request on axios
+- moderation popover
+
 ## 0.61.1 (2024-02-26)
 
 ### Fix
