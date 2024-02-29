@@ -1,3 +1,10 @@
+## 0.61.3 (2024-02-29)
+
+### Fix
+
+- textarea paste
+- custom popover buttons
+
 ## 0.61.2 (2024-02-27)
 
 ### Fix
