@@ -1,3 +1,9 @@
+## 0.12.0 (2024-03-01)
+
+### Feat
+
+- add more grained section moderation
+
 ## 0.11.0 (2024-02-21)
 
 ### Feat
