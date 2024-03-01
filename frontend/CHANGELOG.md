@@ -1,3 +1,22 @@
+## 0.62.0 (2024-03-01)
+
+### Feat
+
+- changes styles
+- changes styles
+- changes styles
+- changes styles
+- active tab property
+- active tab depends on active sections
+
+### Fix
+
+- is viewed styles
+- fix science allowed sections
+- request when 0 total
+- version history highlight
+- reworking stage logic
+
 ## 0.61.3 (2024-02-29)
 
 ### Fix
