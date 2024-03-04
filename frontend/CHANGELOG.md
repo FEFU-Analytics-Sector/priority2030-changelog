@@ -1,3 +1,9 @@
+## 0.62.2 (2024-03-04)
+
+### Fix
+
+- link value store like number
+
 ## 0.62.1 (2024-03-04)
 
 ### Fix
