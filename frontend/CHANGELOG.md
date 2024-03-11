@@ -1,3 +1,17 @@
+## 0.63.0 (2024-03-11)
+
+### Feat
+
+- total moderation
+
+### Fix
+
+- save loader style
+- project reworking save loader
+- version history reverse delete
+- moderation table counts
+- active sections empty check
+
 ## 0.62.2 (2024-03-04)
 
 ### Fix
