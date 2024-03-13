@@ -1,3 +1,24 @@
+## 0.64.0 (2024-03-13)
+
+### Feat
+
+- new moderation comments
+
+### Fix
+
+- placeholder
+- light tab bg
+- placeholder color
+- delete rights
+- count update after delete
+- comments
+- comments
+- comments
+- comments
+- comments, comments count
+- comments, comments count
+- comments styles
+
 ## 0.63.0 (2024-03-11)
 
 ### Feat
