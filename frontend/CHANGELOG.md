@@ -1,3 +1,16 @@
+## 0.64.2 (2024-03-29)
+
+### Fix
+
+- moderation table total
+
+## 0.64.1 (2024-03-19)
+
+### Fix
+
+- linked value sum
+- moderation history new event
+
 ## 0.64.0 (2024-03-13)
 
 ### Feat
