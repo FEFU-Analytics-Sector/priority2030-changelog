@@ -1,3 +1,9 @@
+## 0.64.3 (2024-05-02)
+
+### Fix
+
+- uncomment previous version fetch
+
 ## 0.64.2 (2024-03-29)
 
 ### Fix
