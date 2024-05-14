@@ -1,3 +1,9 @@
+## 0.64.5 (2024-05-14)
+
+### Fix
+
+- moderation table moderator info
+
 ## 0.64.4 (2024-05-02)
 
 ### Fix
