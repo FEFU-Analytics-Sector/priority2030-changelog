@@ -1,3 +1,12 @@
+## 0.64.7 (2024-05-20)
+
+### Fix
+
+- year select options from current year
+- purchase year select
+- safe property
+- uncomment previous version fetch
+
 ## 0.64.6 (2024-05-16)
 
 ### Fix
