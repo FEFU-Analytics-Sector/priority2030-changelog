@@ -1,3 +1,13 @@
+## 0.15.0 (2024-06-11)
+
+### Feat
+
+- add comments attachments
+
+### Fix
+
+- rework templates, change table rows to 1
+
 ## 0.14.0 (2024-03-19)
 
 ### Feat
