@@ -1,3 +1,74 @@
+## 0.65.0 (2024-06-11)
+
+### Feat
+
+- project discussion
+- tech section advice
+- preview
+- form design, moderation comments
+- rework support page
+- rework changelog page
+- rework knowledge page
+- rework about page
+- rework projects page
+
+### Fix
+
+- tabs header
+- moderators redirect
+- header
+- history modal check end of table
+- design fixes
+- rework design
+- new project sidebar overflow
+- project preview
+- moderation statuses
+- moderation statuses
+- form empty data return
+- new project design styles
+- style fixes
+- budget tooltip
+- tooltip fill
+- tooltip fill
+- budget tooltip
+- modification svg
+- tabs height
+- active section, badge absolute position
+- active section, badge absolute position
+- active section, hover border, badge absolute position
+- theme setter delete, moderation font
+- absolute form table description
+- advice in reworking
+- active font
+- advice, active section, project badge
+- form fonts
+- comments padding top, filename truncate
+- bottom padding after footer remove
+- select max-width
+- change color text
+- comments fixes, badges
+- owner text
+- discussion link
+- viewed tooltip
+- changelog set text
+- new form design
+- selector date
+- moderation page double request
+- changelog
+- moderation table tooltip
+- comments small fix
+- modals footer buttons
+- close modal icon, revert changes button only in moderation project reworking
+- knowledge margin, delete footer
+- moderation popover position
+- project page modals
+- modal header shadow, project choose date picker
+- unused props
+- projects page counts
+- build errors
+- moderation table
+- my projects length check
+
 ## 0.64.7 (2024-05-20)
 
 ### Fix
