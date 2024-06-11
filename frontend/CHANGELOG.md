@@ -1,3 +1,20 @@
+## 0.66.0 (2024-06-11)
+
+### Feat
+
+- hide monitoring for staff
+- monitoring page
+
+### Fix
+
+- gap
+- hide delta
+- return zeros
+- monitoring page
+- monitoring page sidebar
+- monitoring page
+- comment click on icon
+
 ## 0.65.0 (2024-06-11)
 
 ### Feat
