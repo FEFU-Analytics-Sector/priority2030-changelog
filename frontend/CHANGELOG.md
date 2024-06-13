@@ -1,3 +1,13 @@
+## 0.66.2 (2024-06-13)
+
+### Fix
+
+- delta weight
+- avatar size
+- monitoring design
+- monitoring cards
+- rework styles
+
 ## 0.66.1 (2024-06-11)
 
 ### Fix
