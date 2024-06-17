@@ -1,3 +1,18 @@
+## 0.66.3 (2024-06-17)
+
+### Fix
+
+- profiles font
+- monitoring filter
+- rework payment profile
+- rework purchase profile
+- request
+- return generated table data
+- return requests
+- purchases
+- last update
+- purchases design
+
 ## 0.66.2 (2024-06-13)
 
 ### Fix
