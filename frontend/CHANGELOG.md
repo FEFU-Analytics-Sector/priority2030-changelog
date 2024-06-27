@@ -1,3 +1,14 @@
+## 0.67.0 (2024-06-27)
+
+### Feat
+
+- monitoring role, purchases pp sum row
+
+### Fix
+
+- monitoring in sidebar
+- add monitoring role in all roles
+
 ## 0.66.4 (2024-06-17)
 
 ### Fix
