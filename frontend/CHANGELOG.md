@@ -1,3 +1,24 @@
+## 0.68.0 (2024-07-04)
+
+### Feat
+
+- purchase profile download files
+- text-align, column width
+- errors
+
+### Fix
+
+- project profile fixes
+- rework project profile design
+- cell width
+- header cell width
+- purchases register table
+- header cell text align property
+- project in work id
+- tooltip position
+- pagination hover
+- refactor purchases page
+
 ## 0.67.0 (2024-06-27)
 
 ### Feat
