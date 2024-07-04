@@ -1,3 +1,10 @@
+## 0.68.1 (2024-07-04)
+
+### Fix
+
+- double cell textarea cell
+- purchases date
+
 ## 0.68.0 (2024-07-04)
 
 ### Feat
