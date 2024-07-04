@@ -1,3 +1,11 @@
+## 0.15.1 (2024-07-04)
+
+### Fix
+
+- estimate table template
+- columns width
+- update columns width, estimate text align
+
 ## 0.15.0 (2024-06-11)
 
 ### Feat
