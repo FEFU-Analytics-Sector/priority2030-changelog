@@ -1,3 +1,9 @@
+## 0.68.3 (2024-07-05)
+
+### Fix
+
+- return item.id in projects table
+
 ## 0.68.2 (2024-07-04)
 
 ### Fix
