@@ -1,3 +1,9 @@
+## 0.69.1 (2024-07-11)
+
+### Fix
+
+- term of realization format
+
 ## 0.69.0 (2024-07-11)
 
 ### Feat
