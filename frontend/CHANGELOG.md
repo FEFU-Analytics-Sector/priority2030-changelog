@@ -1,3 +1,41 @@
+## 0.69.0 (2024-07-11)
+
+### Feat
+
+- moderation project return to previous stage button
+
+### Fix
+
+- filters without strategy selector
+- filters without strategy selector
+-  new moderation history type
+- edit rights
+- moderation pathname tab
+- custom confirm modal text
+- add loader when user resubmit project
+- return after continue request
+- use effect on restored project id
+- change selected type when select project or type
+- rework restore project request
+- new project from old
+- term of realization one format
+- input cell params
+- form date range field format
+- project profile header
+- tab max width
+- resubmit redirect
+- moderation history modal fix
+- moderation history modal fix
+- add to project in work is owner check
+- rework header
+- check click roles
+- fixed button check on user role
+- right response handle
+- test request error data
+- projects stages
+- test response data
+- extra sections map
+
 ## 0.68.4 (2024-07-05)
 
 ### Fix
