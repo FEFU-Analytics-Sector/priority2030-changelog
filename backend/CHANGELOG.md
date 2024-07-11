@@ -1,3 +1,10 @@
+## 0.16.0 (2024-07-11)
+
+### Feat
+
+- add returning project to approval from implementation
+- add returning projects to previous stage
+
 ## 0.15.1 (2024-07-04)
 
 ### Fix
