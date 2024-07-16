@@ -1,3 +1,10 @@
+## 0.69.2 (2024-07-16)
+
+### Fix
+
+- strategy ptojectstatistic ui
+- fixed IBudget model for backend
+
 ## 0.69.1 (2024-07-11)
 
 ### Fix
