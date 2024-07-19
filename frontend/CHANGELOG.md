@@ -1,3 +1,10 @@
+## 0.69.3 (2024-07-19)
+
+### Fix
+
+- delete response status check
+- generated table column width
+
 ## 0.69.2 (2024-07-16)
 
 ### Fix
