@@ -1,3 +1,13 @@
+## 0.69.4 (2024-07-22)
+
+### Fix
+
+- notification duration
+- imports
+- change sections status on errors
+- change sections status on errors
+- change sections status on errors
+
 ## 0.69.3 (2024-07-19)
 
 ### Fix
