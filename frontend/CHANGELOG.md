@@ -1,3 +1,11 @@
+## 0.69.6 (2024-07-24)
+
+### Fix
+
+- moderator project reworking return dashboard logo
+- moderator project reworking header
+- moderator project reworking header, estimate replace array
+
 ## 0.69.5 (2024-07-23)
 
 ### Fix
