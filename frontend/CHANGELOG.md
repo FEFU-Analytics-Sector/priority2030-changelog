@@ -1,3 +1,14 @@
+## 0.69.7 (2024-07-26)
+
+### Fix
+
+- sidebar height
+- sidebar overflow, buttons margins
+- project table description
+- edit project in work logic, estimate font size
+- metrics, new project edit params
+- project profile team
+
 ## 0.69.6 (2024-07-24)
 
 ### Fix
