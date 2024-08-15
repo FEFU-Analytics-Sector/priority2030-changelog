@@ -1,3 +1,38 @@
+## 0.70.0 (2024-08-15)
+
+### Feat
+
+- notifications
+- restore project year in label
+- project profile moderation history
+
+### Fix
+
+- download
+- only agreed true
+- download files
+- date with timezone
+- reply comment id
+- alert parse
+- notification step
+- notification step
+- notifications section
+- new notifications pagination
+- styles
+- duplicate alert
+- duplicate alert
+- notification project title wrap
+- notification length check
+- notification alert, list update after close
+- notifications styles
+- notifications when 0
+- notifications, discuss useless request, admin panel layout
+- new project restore title
+- update env example
+- notifications page style
+- project profile owner id condition
+- useless filter
+
 ## 0.69.7 (2024-07-26)
 
 ### Fix
