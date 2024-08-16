@@ -1,3 +1,15 @@
+## 0.71.0 (2024-08-16)
+
+### Feat
+
+- user guide
+
+### Fix
+
+- user guide delete private route
+- sliders text
+- auth, sidebar user guide
+
 ## 0.70.0 (2024-08-15)
 
 ### Feat
