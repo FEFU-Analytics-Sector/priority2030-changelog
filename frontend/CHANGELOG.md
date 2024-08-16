@@ -1,3 +1,10 @@
+## 0.71.1 (2024-08-16)
+
+### Fix
+
+- discussion delete specific sidebar
+- add header to user guide
+
 ## 0.71.0 (2024-08-16)
 
 ### Feat
