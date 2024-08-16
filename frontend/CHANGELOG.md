@@ -1,3 +1,13 @@
+## 0.71.2 (2024-08-16)
+
+### Fix
+
+- history table columns deps
+- useless request
+- console log
+- use effect deps
+- history button styles
+
 ## 0.71.1 (2024-08-16)
 
 ### Fix
