@@ -1,3 +1,19 @@
+## 0.71.3 (2024-08-26)
+
+### Fix
+
+- storage local handle
+- call api main without auth param
+- download get request
+- delete / if endpoint empty
+- reworking file save
+- moderator project reworking async
+- project reworking async
+- user project reworking s3 logic
+- moderator project reworking s3 logic
+- file download default api
+- download  file dynamic url
+
 ## 0.71.2 (2024-08-16)
 
 ### Fix
