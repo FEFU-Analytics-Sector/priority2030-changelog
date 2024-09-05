@@ -1,3 +1,14 @@
+## 0.71.4 (2024-09-05)
+
+### Fix
+
+- black border
+- send project isFormSave false
+- text field symbols error
+- external login auth check
+- sse retry limit
+- project reworking menu buttons
+
 ## 0.71.3 (2024-08-26)
 
 ### Fix
