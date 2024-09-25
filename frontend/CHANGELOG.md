@@ -1,3 +1,21 @@
+## 0.72.0 (2024-09-25)
+
+### Feat
+
+- admin roles table filters
+
+### Fix
+
+- 1c data refill response
+- update monitoring
+- delete data, payments change response
+- change project author
+- delete payload
+- budget id
+- admin roles popover
+- rework structure
+- purchases select
+
 ## 0.71.5 (2024-09-10)
 
 ### Fix
