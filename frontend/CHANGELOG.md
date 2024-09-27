@@ -1,3 +1,19 @@
+## 0.73.0 (2024-09-27)
+
+### Feat
+
+- project profile request id
+- broadcast message
+
+### Fix
+
+- new project header
+- isFormSave lag
+- project id science role
+- submit flow
+- save flow
+- forms lags
+
 ## 0.72.0 (2024-09-25)
 
 ### Feat
