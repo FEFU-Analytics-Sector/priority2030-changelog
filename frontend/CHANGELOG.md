@@ -1,3 +1,11 @@
+## 0.73.2 (2024-10-03)
+
+### Fix
+
+- project profile plan charts
+- reworking send button lock
+- save all active section save
+
 ## 0.73.1 (2024-10-03)
 
 ### Fix
