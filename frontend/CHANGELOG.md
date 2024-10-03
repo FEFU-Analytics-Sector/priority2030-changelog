@@ -1,3 +1,9 @@
+## 0.73.1 (2024-10-03)
+
+### Fix
+
+- more time for form update after values locally save
+
 ## 0.73.0 (2024-09-27)
 
 ### Feat
