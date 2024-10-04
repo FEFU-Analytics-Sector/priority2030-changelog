@@ -1,3 +1,10 @@
+## 0.73.3 (2024-10-04)
+
+### Fix
+
+- edit project all sections approved
+- resend save only edited sections
+
 ## 0.73.2 (2024-10-03)
 
 ### Fix
