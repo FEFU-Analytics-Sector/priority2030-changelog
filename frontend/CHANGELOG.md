@@ -1,3 +1,9 @@
+## 0.73.4 (2024-10-14)
+
+### Fix
+
+- submit section on moderation in reworking
+
 ## 0.73.3 (2024-10-04)
 
 ### Fix
