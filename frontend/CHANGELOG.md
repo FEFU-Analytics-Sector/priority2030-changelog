@@ -1,3 +1,10 @@
+## 0.73.5 (2024-10-22)
+
+### Fix
+
+- year like array param
+- download global filters
+
 ## 0.73.4 (2024-10-14)
 
 ### Fix
