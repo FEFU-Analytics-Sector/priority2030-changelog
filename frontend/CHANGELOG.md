@@ -1,3 +1,9 @@
+## 0.74.1 (2024-12-24)
+
+### Fix
+
+- avoid redirect for create report method
+
 ## 0.74.0 (2024-12-24)
 
 ### Feat
