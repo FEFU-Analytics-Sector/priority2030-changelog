@@ -1,3 +1,9 @@
+## 0.74.2 (2024-12-24)
+
+### Fix
+
+- use prefix url instead of create
+
 ## 0.74.1 (2024-12-24)
 
 ### Fix
