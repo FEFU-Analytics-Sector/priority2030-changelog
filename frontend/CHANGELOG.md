@@ -1,3 +1,16 @@
+## 0.75.0 (2024-12-25)
+
+### Feat
+
+- reports popover
+- reports errors
+
+### Fix
+
+- text
+- report edit only for draft stage, file cell length info
+- projects tables popover
+
 ## 0.74.2 (2024-12-24)
 
 ### Fix
