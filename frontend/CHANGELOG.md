@@ -1,3 +1,25 @@
+## 0.76.0 (2025-01-21)
+
+### Feat
+
+- consideration modal
+
+### Fix
+
+- discussion sidebar
+- report changes, form file uploader changes
+- link value calculations
+- all roles const
+- new roles in router
+- tooltips, report replies
+- form input links count handle
+- po name in moderation table
+- change short names for roles
+- modal stage check
+- report reworking
+- moderation po buttons
+- project reworking confirm
+
 ## 0.75.2 (2024-12-26)
 
 ### Fix
