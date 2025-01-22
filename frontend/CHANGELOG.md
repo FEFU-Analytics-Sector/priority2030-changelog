@@ -1,3 +1,17 @@
+## 0.76.1 (2025-01-22)
+
+### Fix
+
+- form file max length check
+- rework moderators step names
+- names
+- wrong names
+- number with spaces empty string handle
+- report moderation active sections
+- delete moderation redirect
+- report moderation active sections
+- budget format
+
 ## 0.76.0 (2025-01-21)
 
 ### Feat
