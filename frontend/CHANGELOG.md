@@ -1,3 +1,10 @@
+## 0.76.2 (2025-01-22)
+
+### Fix
+
+- reworking sections order
+- moderation table tooltips
+
 ## 0.76.1 (2025-01-22)
 
 ### Fix
