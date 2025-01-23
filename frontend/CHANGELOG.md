@@ -1,3 +1,23 @@
+## 0.77.0 (2025-01-23)
+
+### Feat
+
+- reports notifications
+
+### Fix
+
+- step map in alerts
+- moderation history, notifications
+- short step notification
+- report types
+- form file uploader changes
+- report moderation user guide
+- report comments send button, project comment reply width
+- moderator redirect on first active section, history report, report reply
+- reports comments
+- agreement status
+- reports moderation tooltips
+
 ## 0.76.2 (2025-01-22)
 
 ### Fix
