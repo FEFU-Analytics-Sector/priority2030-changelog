@@ -1,3 +1,11 @@
+## 0.77.2 (2025-01-24)
+
+### Fix
+
+- report moderation sidebar types
+- report change section loader
+- report form update
+
 ## 0.77.1 (2025-01-24)
 
 ### Fix
