@@ -1,3 +1,11 @@
+## 0.77.1 (2025-01-24)
+
+### Fix
+
+- report info, select changes
+- fix text in userguid report
+- report changes
+
 ## 0.77.0 (2025-01-23)
 
 ### Feat
