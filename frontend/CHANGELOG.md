@@ -1,3 +1,14 @@
+## 0.78.0 (2025-01-28)
+
+### Feat
+
+- moderation report edit
+
+### Fix
+
+- report edit
+- reports table moderators edit button
+
 ## 0.77.2 (2025-01-24)
 
 ### Fix
