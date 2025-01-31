@@ -1,3 +1,50 @@
+## 0.78.0 (2025-01-28)
+
+### Feat
+
+- moderation report edit
+
+### Fix
+
+- report edit
+- reports table moderators edit button
+
+## 0.77.2 (2025-01-24)
+
+### Fix
+
+- report moderation sidebar types
+- report change section loader
+- report form update
+
+## 0.77.1 (2025-01-24)
+
+### Fix
+
+- report info, select changes
+- fix text in userguid report
+- report changes
+
+## 0.77.0 (2025-01-23)
+
+### Feat
+
+- reports notifications
+
+### Fix
+
+- step map in alerts
+- moderation history, notifications
+- short step notification
+- report types
+- form file uploader changes
+- report moderation user guide
+- report comments send button, project comment reply width
+- moderator redirect on first active section, history report, report reply
+- reports comments
+- agreement status
+- reports moderation tooltips
+
 ## 0.76.2 (2025-01-22)
 
 ### Fix
