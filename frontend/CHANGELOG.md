@@ -1,3 +1,9 @@
+## 0.78.2 (2025-02-02)
+
+### Fix
+
+- form file uploader file changes
+
 ## 0.78.1 (2025-02-02)
 
 ### Fix
