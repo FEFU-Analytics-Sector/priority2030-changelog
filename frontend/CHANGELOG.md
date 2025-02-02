@@ -1,3 +1,13 @@
+## 0.78.1 (2025-02-02)
+
+### Fix
+
+- approved report resend
+- form table file cell changes
+- table roles selector
+- report moderation selector available roles
+- report moderation loading tab, po moderators modal
+
 ## 0.78.0 (2025-01-28)
 
 ### Feat
