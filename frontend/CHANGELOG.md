@@ -1,3 +1,12 @@
+## 0.78.3 (2025-02-05)
+
+### Fix
+
+- add comment button
+- reply placeholder
+- textarea resize
+- delete row change form table wasChanged
+
 ## 0.78.2 (2025-02-02)
 
 ### Fix
