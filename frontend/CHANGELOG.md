@@ -1,3 +1,27 @@
+## 0.78.5 (2025-02-10)
+
+### Fix
+
+- project moderation confirm
+- add new comment always visible, project moderation role selector
+- pdf po name
+- add agreement list download, comments colors
+
+## 0.78.4 (2025-02-05)
+
+### Fix
+
+- partner name, file hover
+
+## 0.78.3 (2025-02-05)
+
+### Fix
+
+- add comment button
+- reply placeholder
+- textarea resize
+- delete row change form table wasChanged
+
 ## 0.78.2 (2025-02-02)
 
 ### Fix
