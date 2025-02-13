@@ -1,3 +1,13 @@
+## 0.79.0 (2025-02-13)
+
+### Feat
+
+- report, project moderation tooltip
+
+### Fix
+
+- agreement utc
+
 ## 0.78.5 (2025-02-10)
 
 ### Fix
