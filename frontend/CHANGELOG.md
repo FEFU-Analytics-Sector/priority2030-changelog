@@ -1,3 +1,10 @@
+## 0.79.1 (2025-02-13)
+
+### Fix
+
+- report discussion sections status
+- sections status check
+
 ## 0.79.0 (2025-02-13)
 
 ### Feat
