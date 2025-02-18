@@ -1,3 +1,12 @@
+## 0.79.2 (2025-02-18)
+
+### Fix
+
+- reports pagination count
+- reports count
+- reports count
+- report status
+
 ## 0.79.1 (2025-02-13)
 
 ### Fix
