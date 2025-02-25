@@ -1,3 +1,29 @@
+## 0.79.2 (2025-02-18)
+
+### Fix
+
+- reports pagination count
+- reports count
+- reports count
+- report status
+
+## 0.79.1 (2025-02-13)
+
+### Fix
+
+- report discussion sections status
+- sections status check
+
+## 0.79.0 (2025-02-13)
+
+### Feat
+
+- report, project moderation tooltip
+
+### Fix
+
+- agreement utc
+
 ## 0.78.5 (2025-02-10)
 
 ### Fix
