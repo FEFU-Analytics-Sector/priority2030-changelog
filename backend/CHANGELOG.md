@@ -1,9 +1,3 @@
-## 0.18.0 (2025-01-17)
-
-### Feat
-
-- add selection of moderators when po confirm consideration and fix some bugs
-
 ## 0.17.0 (2024-12-24)
 
 ### Feat
