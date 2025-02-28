@@ -1,3 +1,35 @@
+## 0.80.0 (2025-02-28)
+
+### Feat
+
+- tg connect, notifications, fix select error highlight
+
+### Fix
+
+- stage
+- enum names
+- delete ssl
+- notification button
+- env
+- tg types
+- connect tg access
+- tg bot id from env
+- notification type, new notification design
+- destroy modal on hide
+- notification card design
+- read notifications
+- form table select cell error
+- input search reset
+- complete project
+- panel politic and strategy selector
+- request id in restore
+- project id in restore
+- restore projects
+- change request method
+- reset comments after add
+- panel update roles table after change
+- projects count
+
 ## 0.79.2 (2025-02-18)
 
 ### Fix
